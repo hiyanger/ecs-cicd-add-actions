@@ -16,7 +16,7 @@ jobs:
       - uses: aws-actions/configure-aws-credentials@v1
         with:
           aws-region: "ap-northeast-1"
-          role-to-assume: "arn:aws:iam::${var.account_id}:role/oidc-role"
+          role-to-assume: ${{ secrets.AWS_ROLE_ARN }}
 
       # ECRログイン
       - uses: aws-actions/amazon-ecr-login@v1
