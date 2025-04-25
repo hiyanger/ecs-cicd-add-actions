@@ -1,2 +1,2 @@
 GitHub Actionsを使ってECRにイメージをpushする  
-https://zenn.dev/hiyanger/scraps/34555c2d7cf4a0
+https://qiita.com/hiyanger/items/05d9203048d09da28288
