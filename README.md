@@ -1,2 +1,1 @@
-GitHub Actionsを使ってECRにDockerイメージをpushする  
-https://qiita.com/hiyanger/items/05d9203048d09da28288
+ECS内に独立した複数のサービスを作れるシステム
